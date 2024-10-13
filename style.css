@@ -6,10 +6,10 @@ body{
     align-items: center;
     font-style: italic;
     
-    
 }
+
 #hero{
-    background-image: url("/abujawebp.webp");
+    background-image: url("images/abujawebp.webp");
     background-size: cover;
     width: 100vw;
     height: 100vh;
